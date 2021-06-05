@@ -1,0 +1,78 @@
+body {
+    background-color: whitesmoke;
+    font-family: MS Gothic;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+h2 {
+    color: pink;
+}
+
+.container {
+    background-color: blue;
+    width: 600px
+}
+
+.container2 {
+    background-color: yellow;
+    height: 160px;
+}
+
+h3 {
+    color: red;
+    font-weight: bold;
+}
+
+h4 {
+    color: black;
+}
+
+h5 {
+    color: black;
+}
+
+
+.container3 {
+    background-color: gray;
+    text-align: center;
+    padding: 8px;
+}
+
+.container4 {
+    background-color: orange;
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 24px;
+}
+
+.comment_fontcolor {
+    color: brown;
+}
+
+
+.container5 {
+    background-color: gray;
+    text-align: center;
+    width: 600px;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.subtitle_fontcolor {
+    color: blue
+}
+
+.container6 {
+    background-color: lightblue;
+    width: 600px;
+    text-align: center;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
