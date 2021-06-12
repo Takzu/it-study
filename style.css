@@ -73,9 +73,18 @@ h5 {
     width: 60%;
     margin: 0 auto;
     padding: 8px;
+    margin-bottom: 24px;
 }
 
 .container7 {
-    margin: 0 auto;
-    padding: 80px;
+    background-color: palegoldenrod;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 64px;
+}
+
+.btn {
+    margin: 8px;
 }
