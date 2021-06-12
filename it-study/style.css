@@ -75,17 +75,3 @@ h5 {
     margin: 0 auto;
     margin-bottom: 24px;
 }
-
-.container7 {
-    background-color: palegoldenrod;
-    width: auto;
-    display: flex;
-    justify-content: center;
-    padding: 56px;
-}
-
-.btn {
-    background-color: peachpuff;
-    width: 80px;
-    margin: 4px;
-}
